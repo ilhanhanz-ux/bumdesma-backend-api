@@ -1,0 +1,8 @@
+config.php
+db_config.php
+.env
+/uploads/
+/foto_ktp/
+*.sql
+/vendor/
+*.log
